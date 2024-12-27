@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/digipay-app/static/css/main.757163e2.css",
+    "main.js": "/digipay-app/static/js/main.cd469a42.js",
+    "static/js/488.2c2c4401.chunk.js": "/digipay-app/static/js/488.2c2c4401.chunk.js",
+    "index.html": "/digipay-app/index.html",
+    "main.757163e2.css.map": "/digipay-app/static/css/main.757163e2.css.map",
+    "main.cd469a42.js.map": "/digipay-app/static/js/main.cd469a42.js.map",
+    "488.2c2c4401.chunk.js.map": "/digipay-app/static/js/488.2c2c4401.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.757163e2.css",
+    "static/js/main.cd469a42.js"
+  ]
+}
